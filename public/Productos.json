@@ -1,0 +1,552 @@
+[
+    {
+        "name": "Smartphone",
+        "image": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+        "description": "A sleek and powerful smartphone with the latest features and technology.",
+        "price": 699.99,
+        "variants": ["Black", "White"],
+        "salePrice": 649.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "Laptop",
+        "image": "https://images.ctfassets.net/hrltx12pl8hq/01rJn4TormMsGQs1ZRIpzX/16a1cae2440420d0fd0a7a9a006f2dcb/Artboard_Copy_231.jpg?fit=fill&w=600&h=600",
+        "description": "High-performance laptop perfect for gaming, work, and entertainment.",
+        "price": 1199.99,
+        "variants": ["#333333", "White"],
+        "salePrice": 1099.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "Tablet",
+        "image": "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+        "description": "Portable and versatile tablet ideal for reading, browsing, and watching videos.",
+        "price": 499.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 449.99,
+        "cart": true,
+        "like": false
+        
+    },
+    {
+        "name": "Smartwatch",
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description": "Stay connected and track your fitness with this stylish smartwatch.",
+        "price": 299.99,
+        "variants": ["Black", "#00FF00"],
+        "salePrice": 249.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "image": "https://cdn.shopify.com/s/files/1/0070/7032/files/diy-product-photography.jpg?v=1599161908",
+        "description": "Portable Bluetooth speaker with superior sound quality.",
+        "price": 149.99,
+        "variants": ["#0000FF", "#FFD700"],
+        "salePrice": 129.99,
+        "cart": true,
+        "like": false
+        
+    },
+    {
+        "name": "Headphones",
+        "image": "https://example.com/headphones.png",
+        "description": "Noise-cancelling headphones with high-fidelity sound.",
+        "price": 199.99,
+        "variants": ["Black", "White"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Gaming Console",
+        "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3BmLXMxMDgtcG0tNDExMy1tb2NrdXAuanBn.jpg",
+        "description": "Next-generation gaming console for the ultimate gaming experience.",
+        "price": 499.99,
+        "variants": ["Black", "White"],
+        "salePrice": 449.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "VR Headset",
+        "image": "https://cc-prod.scene7.com/is/image/CCProdAuthor/product-photography_P3B_720x350?$pjpeg$&jpegSize=200&wid=720",
+        "description": "Immerse yourself in virtual reality with this advanced VR headset.",
+        "price": 399.99,
+        "variants": ["Black", "#FF69B4"],
+        "salePrice": 349.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Drone",
+        "image": "https://example.com/drone.png",
+        "description": "High-performance drone with 4K camera for stunning aerial photography.",
+        "price": 899.99,
+        "variants": ["Black", "White"],
+        "salePrice": 849.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Electric Scooter",
+        "image": "https://example.com/electric_scooter.png",
+        "description": "Eco-friendly electric scooter for convenient urban commuting.",
+        "price": 599.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 549.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Smart Thermostat",
+        "image": "https://example.com/smart_thermostat.png",
+        "description": "Control your home temperature with this intelligent smart thermostat.",
+        "price": 199.99,
+        "variants": ["White", "Black"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Air Purifier",
+        "image": "https://example.com/air_purifier.png",
+        "description": "Keep your home air clean and fresh with this efficient air purifier.",
+        "price": 249.99,
+        "variants": ["White", "Black"],
+        "salePrice": 229.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Robot Vacuum",
+        "image": "https://example.com/robot_vacuum.png",
+        "description": "Automated robot vacuum for hassle-free cleaning.",
+        "price": 399.99,
+        "variants": ["Black", "White"],
+        "salePrice": 349.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Smart Light Bulbs",
+        "image": "https://example.com/smart_light_bulbs.png",
+        "description": "Energy-efficient smart light bulbs with customizable colors.",
+        "price": 99.99,
+        "variants": ["White", "#FFFF00"],
+        "salePrice": 79.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Security Camera",
+        "image": "https://example.com/security_camera.png",
+        "description": "Keep your home safe with this high-definition security camera.",
+        "price": 149.99,
+        "variants": ["Black", "White"],
+        "salePrice": 129.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Electric Kettle",
+        "image": "https://example.com/electric_kettle.png",
+        "description": "Boil water quickly and safely with this electric kettle.",
+        "price": 59.99,
+        "variants": ["White", "Black"],
+        "salePrice": 49.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Espresso Machine",
+        "image": "https://example.com/espresso_machine.png",
+        "description": "Brew barista-quality espresso at home with this machine.",
+        "price": 299.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 279.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Blender",
+        "image": "https://example.com/blender.png",
+        "description": "Powerful blender for smoothies, soups, and more.",
+        "price": 129.99,
+        "variants": ["White", "Black"],
+        "salePrice": 119.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Slow Cooker",
+        "image": "https://example.com/slow_cooker.png",
+        "description": "Cook delicious meals effortlessly with this slow cooker.",
+        "price": 99.99,
+        "variants": ["White", "Black"],
+        "salePrice": 89.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Microwave Oven",
+        "image": "https://example.com/microwave_oven.png",
+        "description": "Efficient microwave oven with multiple cooking modes.",
+        "price": 199.99,
+        "variants": ["Black", "White"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Air Fryer",
+        "image": "https://example.com/air_fryer.png",
+        "description": "Enjoy healthier fried foods with this air fryer.",
+        "price": 149.99,
+        "variants": ["White", "Black"],
+        "salePrice": 129.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Electric Kettle",
+        "image": "https://example.com/electric_kettle.png",
+        "description": "Boil water quickly and safely with this electric kettle.",
+        "price": 59.99,
+        "variants": ["White", "Black"],
+        "salePrice": 49.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Espresso Machine",
+        "image": "https://example.com/espresso_machine.png",
+        "description": "Brew barista-quality espresso at home with this machine.",
+        "price": 299.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 279.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Blender",
+        "image": "https://example.com/blender.png",
+        "description": "Powerful blender for smoothies, soups, and more.",
+        "price": 129.99,
+        "variants": ["White", "Black"],
+        "salePrice": 119.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Slow Cooker",
+        "image": "https://example.com/slow_cooker.png",
+        "description": "Cook delicious meals effortlessly with this slow cooker.",
+        "price": 99.99,
+        "variants": ["White", "Black"],
+        "salePrice": 89.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Smartphone",
+        "image": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+        "description": "A sleek and powerful smartphone with the latest features and technology.",
+        "price": 699.99,
+        "variants": ["Black", "White"],
+        "salePrice": 649.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "Laptop",
+        "image": "https://images.ctfassets.net/hrltx12pl8hq/01rJn4TormMsGQs1ZRIpzX/16a1cae2440420d0fd0a7a9a006f2dcb/Artboard_Copy_231.jpg?fit=fill&w=600&h=600",
+        "description": "High-performance laptop perfect for gaming, work, and entertainment.",
+        "price": 1199.99,
+        "variants": ["#333333", "White"],
+        "salePrice": 1099.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "Tablet",
+        "image": "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+        "description": "Portable and versatile tablet ideal for reading, browsing, and watching videos.",
+        "price": 499.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 449.99,
+        "cart": true,
+        "like": false
+        
+    },
+    {
+        "name": "Smartwatch",
+        "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description": "Stay connected and track your fitness with this stylish smartwatch.",
+        "price": 299.99,
+        "variants": ["Black", "#00FF00"],
+        "salePrice": 249.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "image": "https://cdn.shopify.com/s/files/1/0070/7032/files/diy-product-photography.jpg?v=1599161908",
+        "description": "Portable Bluetooth speaker with superior sound quality.",
+        "price": 149.99,
+        "variants": ["#0000FF", "#FFD700"],
+        "salePrice": 129.99,
+        "cart": true,
+        "like": false
+        
+    },
+    {
+        "name": "Headphones",
+        "image": "https://example.com/headphones.png",
+        "description": "Noise-cancelling headphones with high-fidelity sound.",
+        "price": 199.99,
+        "variants": ["Black", "White"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Gaming Console",
+        "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3BmLXMxMDgtcG0tNDExMy1tb2NrdXAuanBn.jpg",
+        "description": "Next-generation gaming console for the ultimate gaming experience.",
+        "price": 499.99,
+        "variants": ["Black", "White"],
+        "salePrice": 449.99,
+        "cart": true,
+        "like": true
+        
+    },
+    {
+        "name": "VR Headset",
+        "image": "https://cc-prod.scene7.com/is/image/CCProdAuthor/product-photography_P3B_720x350?$pjpeg$&jpegSize=200&wid=720",
+        "description": "Immerse yourself in virtual reality with this advanced VR headset.",
+        "price": 399.99,
+        "variants": ["Black", "#FF69B4"],
+        "salePrice": 349.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Drone",
+        "image": "https://example.com/drone.png",
+        "description": "High-performance drone with 4K camera for stunning aerial photography.",
+        "price": 899.99,
+        "variants": ["Black", "White"],
+        "salePrice": 849.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Electric Scooter",
+        "image": "https://example.com/electric_scooter.png",
+        "description": "Eco-friendly electric scooter for convenient urban commuting.",
+        "price": 599.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 549.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Smart Thermostat",
+        "image": "https://example.com/smart_thermostat.png",
+        "description": "Control your home temperature with this intelligent smart thermostat.",
+        "price": 199.99,
+        "variants": ["White", "Black"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Air Purifier",
+        "image": "https://example.com/air_purifier.png",
+        "description": "Keep your home air clean and fresh with this efficient air purifier.",
+        "price": 249.99,
+        "variants": ["White", "Black"],
+        "salePrice": 229.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Robot Vacuum",
+        "image": "https://example.com/robot_vacuum.png",
+        "description": "Automated robot vacuum for hassle-free cleaning.",
+        "price": 399.99,
+        "variants": ["Black", "White"],
+        "salePrice": 349.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Smart Light Bulbs",
+        "image": "https://example.com/smart_light_bulbs.png",
+        "description": "Energy-efficient smart light bulbs with customizable colors.",
+        "price": 99.99,
+        "variants": ["White", "#FFFF00"],
+        "salePrice": 79.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Security Camera",
+        "image": "https://example.com/security_camera.png",
+        "description": "Keep your home safe with this high-definition security camera.",
+        "price": 149.99,
+        "variants": ["Black", "White"],
+        "salePrice": 129.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Electric Kettle",
+        "image": "https://example.com/electric_kettle.png",
+        "description": "Boil water quickly and safely with this electric kettle.",
+        "price": 59.99,
+        "variants": ["White", "Black"],
+        "salePrice": 49.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Espresso Machine",
+        "image": "https://example.com/espresso_machine.png",
+        "description": "Brew barista-quality espresso at home with this machine.",
+        "price": 299.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 279.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Blender",
+        "image": "https://example.com/blender.png",
+        "description": "Powerful blender for smoothies, soups, and more.",
+        "price": 129.99,
+        "variants": ["White", "Black"],
+        "salePrice": 119.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Slow Cooker",
+        "image": "https://example.com/slow_cooker.png",
+        "description": "Cook delicious meals effortlessly with this slow cooker.",
+        "price": 99.99,
+        "variants": ["White", "Black"],
+        "salePrice": 89.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Microwave Oven",
+        "image": "https://example.com/microwave_oven.png",
+        "description": "Efficient microwave oven with multiple cooking modes.",
+        "price": 199.99,
+        "variants": ["Black", "White"],
+        "salePrice": 179.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Air Fryer",
+        "image": "https://example.com/air_fryer.png",
+        "description": "Enjoy healthier fried foods with this air fryer.",
+        "price": 149.99,
+        "variants": ["White", "Black"],
+        "salePrice": 129.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Electric Kettle",
+        "image": "https://example.com/electric_kettle.png",
+        "description": "Boil water quickly and safely with this electric kettle.",
+        "price": 59.99,
+        "variants": ["White", "Black"],
+        "salePrice": 49.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Espresso Machine",
+        "image": "https://example.com/espresso_machine.png",
+        "description": "Brew barista-quality espresso at home with this machine.",
+        "price": 299.99,
+        "variants": ["Black", "#FF4500"],
+        "salePrice": 279.99,
+        "cart": false,
+        "like": false
+        
+    },
+    {
+        "name": "Blender",
+        "image": "https://example.com/blender.png",
+        "description": "Powerful blender for smoothies, soups, and more.",
+        "price": 129.99,
+        "variants": ["White", "Black"],
+        "salePrice": 119.99,
+        "cart": false,
+        "like": true
+        
+    },
+    {
+        "name": "Slow Cooker",
+        "image": "https://example.com/slow_cooker.png",
+        "description": "Cook delicious meals effortlessly with this slow cooker.",
+        "price": 99.99,
+        "variants": ["White", "Black"],
+        "salePrice": 89.99,
+        "cart": false,
+        "like": false
+        
+    }
+    ]
